@@ -1,0 +1,43 @@
+﻿  main.cpp
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(31,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(32,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(92,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(92,46): warning C4244:         with
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(92,46): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(92,46): warning C4244:             T=float
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(92,46): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(155,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(168,125): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(168,125): warning C4244:         with
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(168,125): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(168,125): warning C4244:             T=float
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(168,125): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(405,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(501,59): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(501,40): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(506,170): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(506,170): warning C4244:         with
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(506,170): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(506,170): warning C4244:             T=float
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(506,170): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(557,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(682,65): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(702,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         with
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:             T=int
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         and
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:             T=float
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,112): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         with
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:             T=int
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         ]
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         and
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         [
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:             T=float
+C:\Users\restr\OneDrive\Document\GitHub\Game230_BreakOut_MuKaiqi\BreakOut\BreakOut\main.cpp(717,78): warning C4244:         ]
